@@ -1,28 +1,9 @@
-== README
+womo
+never fear missing out again
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+womo allows you to compare reveiws from the word of mouth
+of the people you trust the most - your tribe - your
+family and close friends.  You can then compare those
+reveiws with the world through womo's integration of
+the yelp api.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
